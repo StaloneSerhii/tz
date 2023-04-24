@@ -3,6 +3,7 @@ import { getTweets } from "../../service/serviceApi";
 import Tweets from "../../components/tweets/tweets";
 import "./cards.css";
 import { Link } from "react-router-dom";
+import { ColorRing } from "react-loader-spinner";
 
 let numCards = 3;
 
@@ -50,7 +51,19 @@ const Cards = () => {
     }
   };
 
-  return (
+  return dataTweets.length <= 0 ? (
+    <div className="loader">
+      <ColorRing
+        visible={true}
+        height="80"
+        width="80"
+        ariaLabel="blocks-loading"
+        wrapperStyle={{}}
+        wrapperClass="blocks-wrapper"
+        colors={["#e15b64", "#f47e60", "#f8b26a", "#abbd81", "#849b87"]}
+      />
+    </div>
+  ) : (
     <section className="section">
       <div className="section__btn--back">
         <Link to="/" className="goBack">
