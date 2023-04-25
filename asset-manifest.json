@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/tz-forwork-cards/static/css/main.51f56aaf.css",
-    "main.js": "/tz-forwork-cards/static/js/main.e17a9549.js",
-    "static/css/794.a65db666.chunk.css": "/tz-forwork-cards/static/css/794.a65db666.chunk.css",
-    "static/js/794.0bfd90f2.chunk.js": "/tz-forwork-cards/static/js/794.0bfd90f2.chunk.js",
-    "static/css/278.bb477f42.chunk.css": "/tz-forwork-cards/static/css/278.bb477f42.chunk.css",
-    "static/js/278.b07b1e99.chunk.js": "/tz-forwork-cards/static/js/278.b07b1e99.chunk.js",
-    "static/js/749.5615a194.chunk.js": "/tz-forwork-cards/static/js/749.5615a194.chunk.js",
-    "static/js/300.c63f5ecc.chunk.js": "/tz-forwork-cards/static/js/300.c63f5ecc.chunk.js",
-    "static/media/welcom.jpg": "/tz-forwork-cards/static/media/welcom.a930639077f5e3f0f9c1.jpg",
-    "static/media/pictureMessage.png": "/tz-forwork-cards/static/media/pictureMessage.032662a2a907475127d7.png",
-    "index.html": "/tz-forwork-cards/index.html",
-    "main.51f56aaf.css.map": "/tz-forwork-cards/static/css/main.51f56aaf.css.map",
-    "main.e17a9549.js.map": "/tz-forwork-cards/static/js/main.e17a9549.js.map",
-    "794.a65db666.chunk.css.map": "/tz-forwork-cards/static/css/794.a65db666.chunk.css.map",
-    "794.0bfd90f2.chunk.js.map": "/tz-forwork-cards/static/js/794.0bfd90f2.chunk.js.map",
-    "278.bb477f42.chunk.css.map": "/tz-forwork-cards/static/css/278.bb477f42.chunk.css.map",
-    "278.b07b1e99.chunk.js.map": "/tz-forwork-cards/static/js/278.b07b1e99.chunk.js.map",
-    "749.5615a194.chunk.js.map": "/tz-forwork-cards/static/js/749.5615a194.chunk.js.map",
-    "300.c63f5ecc.chunk.js.map": "/tz-forwork-cards/static/js/300.c63f5ecc.chunk.js.map"
+    "main.css": "/tz-cards-tweet/static/css/main.51f56aaf.css",
+    "main.js": "/tz-cards-tweet/static/js/main.a0cc7590.js",
+    "static/css/794.a65db666.chunk.css": "/tz-cards-tweet/static/css/794.a65db666.chunk.css",
+    "static/js/794.774443cb.chunk.js": "/tz-cards-tweet/static/js/794.774443cb.chunk.js",
+    "static/css/278.bb477f42.chunk.css": "/tz-cards-tweet/static/css/278.bb477f42.chunk.css",
+    "static/js/278.c6dad043.chunk.js": "/tz-cards-tweet/static/js/278.c6dad043.chunk.js",
+    "static/js/749.cddbf8e4.chunk.js": "/tz-cards-tweet/static/js/749.cddbf8e4.chunk.js",
+    "static/js/300.ac3067e4.chunk.js": "/tz-cards-tweet/static/js/300.ac3067e4.chunk.js",
+    "static/media/welcom.jpg": "/tz-cards-tweet/static/media/welcom.a930639077f5e3f0f9c1.jpg",
+    "static/media/pictureMessage.png": "/tz-cards-tweet/static/media/pictureMessage.032662a2a907475127d7.png",
+    "index.html": "/tz-cards-tweet/index.html",
+    "main.51f56aaf.css.map": "/tz-cards-tweet/static/css/main.51f56aaf.css.map",
+    "main.a0cc7590.js.map": "/tz-cards-tweet/static/js/main.a0cc7590.js.map",
+    "794.a65db666.chunk.css.map": "/tz-cards-tweet/static/css/794.a65db666.chunk.css.map",
+    "794.774443cb.chunk.js.map": "/tz-cards-tweet/static/js/794.774443cb.chunk.js.map",
+    "278.bb477f42.chunk.css.map": "/tz-cards-tweet/static/css/278.bb477f42.chunk.css.map",
+    "278.c6dad043.chunk.js.map": "/tz-cards-tweet/static/js/278.c6dad043.chunk.js.map",
+    "749.cddbf8e4.chunk.js.map": "/tz-cards-tweet/static/js/749.cddbf8e4.chunk.js.map",
+    "300.ac3067e4.chunk.js.map": "/tz-cards-tweet/static/js/300.ac3067e4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.51f56aaf.css",
-    "static/js/main.e17a9549.js"
+    "static/js/main.a0cc7590.js"
   ]
 }

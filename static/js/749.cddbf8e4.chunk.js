@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktz_cards_tweet=self.webpackChunktz_cards_tweet||[]).push([[749],{586:function(e,t,c){c.r(t),c.d(t,{default:function(){return n}});var s=c.p+"static/media/welcom.a930639077f5e3f0f9c1.jpg",a=c(184),n=function(){return(0,a.jsx)("div",{className:"home",children:(0,a.jsx)("img",{src:s,alt:"welcomLogo"})})}}}]);
+//# sourceMappingURL=749.cddbf8e4.chunk.js.map
